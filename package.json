@@ -1,0 +1,47 @@
+{
+  "name": "spark-web-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@spark-web/a11y": "^1.0.3",
+    "@spark-web/box": "^1.0.3",
+    "@spark-web/button": "^1.0.3",
+    "@spark-web/columns": "^1.0.3",
+    "@spark-web/container": "^1.0.3",
+    "@spark-web/core": "^1.0.3",
+    "@spark-web/divider": "^1.0.3",
+    "@spark-web/field": "^1.0.3",
+    "@spark-web/fieldset": "^1.0.3",
+    "@spark-web/heading": "^1.0.3",
+    "@spark-web/icon": "^1.1.1",
+    "@spark-web/inline": "^1.0.3",
+    "@spark-web/link": "^1.0.3",
+    "@spark-web/next-utils": "^1.0.3",
+    "@spark-web/row": "^1.0.3",
+    "@spark-web/select": "^1.0.3",
+    "@spark-web/stack": "^1.0.3",
+    "@spark-web/text": "^1.0.3",
+    "@spark-web/text-input": "^1.0.3",
+    "@spark-web/theme": "^2.0.2",
+    "@spark-web/utils": "^1.1.1",
+    "@svgr/webpack": "^6.2.1",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.31",
+    "@types/react": "18.0.9",
+    "@types/react-dom": "18.0.3",
+    "eslint": "8.15.0",
+    "eslint-config-next": "12.1.6",
+    "typescript": "4.6.4"
+  }
+}
